@@ -1,9 +1,9 @@
 class Book
- def initialized (tittle)
-   @tittle = tittle
+ def initialized (title)
+   @title = title
  end 
- def tittle
-   @tittle
+ def title
+   @title
  end 
 end 
 
