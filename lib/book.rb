@@ -5,5 +5,5 @@ class Book
  def tittle
    @tittle
  end 
- end 
+end 
 
